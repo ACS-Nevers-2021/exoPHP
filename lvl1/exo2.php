@@ -1,5 +1,5 @@
 <?php
-//En effet il faut "<?php" pour commencer à faire du code PHP, vous avez sans doute trouver qu'il existe une version courte "<?", NE L'UTILISEZ PAS, même la doc le dit
+//En effet il faut "<?php" pour commencer à faire du code PHP, vous avez sans doute trouvé qu'il existe une version courte "<?", NE L'UTILISEZ PAS, même la doc le dit
 /*
 Les commentaires inlines ou multilines
 fonctionnent comme en JS,

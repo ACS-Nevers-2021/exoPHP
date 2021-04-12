@@ -1,6 +1,6 @@
 <?php
 $title = "Je suis le title !";
-//Trouver un moyen d'inclure les fichiers header.php et footer.php ! Profitez en pour voir à quoi sert cette variable $title.
+//Trouvez un moyen d'inclure les fichiers header.php et footer.php ! Profitez-en pour voir à quoi sert cette variable $title.
 
 ?>
 <div>
